@@ -45,8 +45,8 @@ This course contains lots of labs for Docker, each lab is a small Docker project
 |      32 | 📖 Image Clean-Up Journey                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268712'>Start Lab</a> |
 |      33 | 📖 Docker Remove Image                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271493'>Start Lab</a> |
 |      34 | 📖 Olympic Victory with Docker Images            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268703'>Start Lab</a> |
-|      35 | 📖 Docker List Images                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271463'>Start Lab</a> |
-|      36 | 📖 Medieval Farmers Docker Adventure             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271453'>Start Lab</a> |
+|      35 | 📖 Medieval Farmers Docker Adventure             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271453'>Start Lab</a> |
+|      36 | 📖 Docker List Images                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271463'>Start Lab</a> |
 |      37 | 📖 Atlantean Search for Docker Images            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268716'>Start Lab</a> |
 |      38 | 📖 Docker Search Images in Repository            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271497'>Start Lab</a> |
 |      39 | 📖 Data Transfer in Futuristic Warfare           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268695'>Start Lab</a> |
@@ -76,6 +76,7 @@ This course contains lots of labs for Docker, each lab is a small Docker project
 |      63 | 📖 Simple Docker Containers                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67162'>Start Lab</a>  |
 |      64 | 📖 Running Your First Container                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148982'>Start Lab</a> |
 |      65 | 📖 Docker's .NET Conf                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67462'>Start Lab</a>  |
+|      66 | 📖 Deploying a Simple TensorFlow Model           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298840'>Start Lab</a> |
 
 ## More
 
