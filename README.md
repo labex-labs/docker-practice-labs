@@ -70,13 +70,13 @@ This course contains lots of labs for Docker, each lab is a small Docker project
 |      57 | 📖 Prune Docker Objects Discovery                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268713'>Start Lab</a> |
 |      58 | 📖 Docker Remove Unused Docker Objects           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271481'>Start Lab</a> |
 |      59 | 📖 Illustrating Docker Volume Concepts           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67494'>Start Lab</a>  |
-|      60 | 📖 Managing Data in Containers                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148984'>Start Lab</a> |
+|      60 | 📖 Managing Container File Systems               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148984'>Start Lab</a> |
 |      61 | 📖 Adding Value with Custom Docker Images        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148983'>Start Lab</a> |
-|      62 | 📖 Docker Images Deeper Dive                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67460'>Start Lab</a>  |
+|      62 | 📖 Create Docker Image From Container            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67460'>Start Lab</a>  |
 |      63 | 📖 Simple Docker Containers                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67162'>Start Lab</a>  |
 |      64 | 📖 Running Your First Container                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148982'>Start Lab</a> |
 |      65 | 📖 Docker's .NET Conf                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67462'>Start Lab</a>  |
-|      66 | 📖 Deploying a Simple TensorFlow Model           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298840'>Start Lab</a> |
+|      66 | 📖 Deploying a Simple TensorFlow Model (Lab)     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298840'>Start Lab</a> |
 
 ## More
 
