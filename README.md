@@ -76,7 +76,6 @@ This course contains lots of labs for Docker, each lab is a small Docker project
 |      63 | 📖 Simple Docker Containers                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67162'>Start Lab</a>  |
 |      64 | 📖 Running Your First Container                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148982'>Start Lab</a> |
 |      65 | 📖 Docker's .NET Conf                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67462'>Start Lab</a>  |
-|      66 | 📖 Deploying a Simple TensorFlow Model (Lab)     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298840'>Start Lab</a> |
 
 ## More
 
