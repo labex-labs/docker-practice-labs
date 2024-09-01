@@ -9,73 +9,68 @@ This course contains lots of labs for Docker, each lab is a small Docker project
 
 ## Scenarios
 
-|   Index | Name                                            | Difficulty   | Practice                                                             |
-|---------|-------------------------------------------------|--------------|----------------------------------------------------------------------|
-|      01 | 📖 Docker Pull Image from Repository             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271485'>Start Lab</a> |
-|      02 | 📖 Spaceport Container Deployment                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268715'>Start Lab</a> |
-|      03 | 📖 Docker Run a Container                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271495'>Start Lab</a> |
-|      04 | 📖 Dragonias Docker Container Quest              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268702'>Start Lab</a> |
-|      05 | 📖 Docker List Containers                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271475'>Start Lab</a> |
-|      06 | 📖 Docker Container Discovery Adventure          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268704'>Start Lab</a> |
-|      07 | 📖 Docker List Running Containers                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271483'>Start Lab</a> |
-|      08 | 📖 Robot Test Environment with Docker            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268718'>Start Lab</a> |
-|      09 | 📖 Docker Start Container                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271499'>Start Lab</a> |
-|      10 | 📖 Space Fleet Container Control                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268719'>Start Lab</a> |
-|      11 | 📖 Docker Stop Container                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271501'>Start Lab</a> |
-|      12 | 📖 Temporal Maze: Docker Container Restart       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268714'>Start Lab</a> |
-|      13 | 📖 Docker Restart Container                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271489'>Start Lab</a> |
-|      14 | 📖 Container Removal in Magical Forest           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268711'>Start Lab</a> |
-|      15 | 📖 Docker Remove Container                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271491'>Start Lab</a> |
-|      16 | 📖 Docker Container Attachment Adventure         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268693'>Start Lab</a> |
-|      17 | 📖 Exploring Pyramids with Docker Exec           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268699'>Start Lab</a> |
-|      18 | 📖 Docker Execute Command in Container           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271461'>Start Lab</a> |
-|      19 | 📖 Space Logs with Docker                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268721'>Start Lab</a> |
-|      20 | 📖 Docker View Container Logs                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271473'>Start Lab</a> |
-|      21 | 📖 Space Container Inspection                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268700'>Start Lab</a> |
-|      22 | 📖 Docker Inspect Container                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271467'>Start Lab</a> |
-|      23 | 📖 Docker Display Running Processes in Container | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271507'>Start Lab</a> |
-|      24 | 📖 Docker Container Creation Adventure           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268696'>Start Lab</a> |
-|      25 | 📖 Docker Create Container                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271459'>Start Lab</a> |
-|      26 | 📖 Container Ports in Air Kingdom                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268701'>Start Lab</a> |
-|      27 | 📖 Docker List Container Ports                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271479'>Start Lab</a> |
-|      28 | 📖 Ninja Village Docker Tagging                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268720'>Start Lab</a> |
-|      29 | 📖 Docker Tag an Image                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271505'>Start Lab</a> |
-|      30 | 📖 Robot Resistors Docker Image Repository       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268710'>Start Lab</a> |
-|      31 | 📖 Docker Push Image to Repository               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271487'>Start Lab</a> |
-|      32 | 📖 Image Clean-Up Journey                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268712'>Start Lab</a> |
-|      33 | 📖 Docker Remove Image                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271493'>Start Lab</a> |
-|      34 | 📖 Olympic Victory with Docker Images            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268703'>Start Lab</a> |
-|      35 | 📖 Medieval Farmers Docker Adventure             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271453'>Start Lab</a> |
-|      36 | 📖 Docker List Images                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271463'>Start Lab</a> |
-|      37 | 📖 Atlantean Search for Docker Images            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268716'>Start Lab</a> |
-|      38 | 📖 Docker Search Images in Repository            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271497'>Start Lab</a> |
-|      39 | 📖 Data Transfer in Futuristic Warfare           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268695'>Start Lab</a> |
-|      40 | 📖 Docker Copy Data Between Host and Container   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271457'>Start Lab</a> |
-|      41 | 📖 Mystic Volume Adventure                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268709'>Start Lab</a> |
-|      42 | 📖 Docker Manage Volumes                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271511'>Start Lab</a> |
-|      43 | 📖 Atlantis Docker Image Build                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268694'>Start Lab</a> |
-|      44 | 📖 Docker Build Image from Dockerfile            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271455'>Start Lab</a> |
-|      45 | 📖 Docker Network Guardians                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268708'>Start Lab</a> |
-|      46 | 📖 Docker Manage Networks                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271477'>Start Lab</a> |
-|      47 | 📖 Magical Docker System Insight                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268698'>Start Lab</a> |
-|      48 | 📖 Docker Display System-Wide Information        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271465'>Start Lab</a> |
-|      49 | 📖 Dragon Version Show                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268717'>Start Lab</a> |
-|      50 | 📖 Docker Show Docker Version                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271509'>Start Lab</a> |
-|      51 | 📖 Docker Registry Odyssey                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268705'>Start Lab</a> |
-|      52 | 📖 Docker Log into Docker Registry               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271469'>Start Lab</a> |
-|      53 | 📖 Docker Registry Logout Adventure              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268706'>Start Lab</a> |
-|      54 | 📖 Docker Log out from Docker Registry           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271471'>Start Lab</a> |
-|      55 | 📖 Docker Space Racing Research                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268707'>Start Lab</a> |
-|      56 | 📖 Docker Manage Docker                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271503'>Start Lab</a> |
-|      57 | 📖 Prune Docker Objects Discovery                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268713'>Start Lab</a> |
-|      58 | 📖 Docker Remove Unused Docker Objects           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271481'>Start Lab</a> |
-|      59 | 📖 Illustrating Docker Volume Concepts           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67494'>Start Lab</a>  |
-|      60 | 📖 Managing Container File Systems               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148984'>Start Lab</a> |
-|      61 | 📖 Adding Value with Custom Docker Images        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148983'>Start Lab</a> |
-|      62 | 📖 Create Docker Image From Container            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67460'>Start Lab</a>  |
-|      63 | 📖 Simple Docker Containers                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67162'>Start Lab</a>  |
-|      64 | 📖 Running Your First Container                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148982'>Start Lab</a> |
-|      65 | 📖 Docker's .NET Conf                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67462'>Start Lab</a>  |
+|   Index | Name                                            | Difficulty   | Practice                                                                   |
+|---------|-------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|      01 | 📖 Docker Pull Image from Repository             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271485'>Start Lab</a>       |
+|      02 | 🎯 Repository Image Quest                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271484'>Start Challenge</a> |
+|      03 | 📖 Docker Run a Container                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271495'>Start Lab</a>       |
+|      04 | 🎯 Dockerized Space Battles Deployment           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271494'>Start Challenge</a> |
+|      05 | 📖 Docker List Containers                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271475'>Start Lab</a>       |
+|      06 | 🎯 Docker Container Identification               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271474'>Start Challenge</a> |
+|      07 | 📖 Docker List Running Containers                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271483'>Start Lab</a>       |
+|      08 | 🎯 Interstellar Container Exploration            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271482'>Start Challenge</a> |
+|      09 | 📖 Docker Start Container                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271499'>Start Lab</a>       |
+|      10 | 🎯 Docker Container Magic Unleashed              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271498'>Start Challenge</a> |
+|      11 | 📖 Docker Stop Container                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271501'>Start Lab</a>       |
+|      12 | 🎯 Arctic Container Shutdown Mission             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271500'>Start Challenge</a> |
+|      13 | 📖 Docker Restart Container                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271489'>Start Lab</a>       |
+|      14 | 🎯 Pharaohs Docker Container Restart             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271488'>Start Challenge</a> |
+|      15 | 📖 Docker Remove Container                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271491'>Start Lab</a>       |
+|      16 | 🎯 Underground Docker Container Management       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271490'>Start Challenge</a> |
+|      17 | 📖 Medieval Farmers Docker Adventure             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271453'>Start Lab</a>       |
+|      18 | 🎯 Sky City Container Troubleshoot               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271452'>Start Challenge</a> |
+|      19 | 📖 Docker Execute Command in Container           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271461'>Start Lab</a>       |
+|      20 | 🎯 Docker Arena Command Quest                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271460'>Start Challenge</a> |
+|      21 | 📖 Docker View Container Logs                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271473'>Start Lab</a>       |
+|      22 | 🎯 Jungle Expedition: Uncovering Ancient Logs    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271472'>Start Challenge</a> |
+|      23 | 📖 Docker Inspect Container                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271467'>Start Lab</a>       |
+|      24 | 🎯 Container Inspection Adventure                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271466'>Start Challenge</a> |
+|      25 | 📖 Docker Display Running Processes in Container | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271507'>Start Lab</a>       |
+|      26 | 🎯 Docker Universe Navigator                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271506'>Start Challenge</a> |
+|      27 | 📖 Docker Create Container                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271459'>Start Lab</a>       |
+|      28 | 🎯 Secure Cargo Transport with Docker            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271458'>Start Challenge</a> |
+|      29 | 📖 Docker List Container Ports                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271479'>Start Lab</a>       |
+|      30 | 🎯 Magic Farmers Docker Port Discovery           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271478'>Start Challenge</a> |
+|      31 | 📖 Docker Tag an Image                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271505'>Start Lab</a>       |
+|      32 | 🎯 Desert Docker Image Tagging Adventure         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271504'>Start Challenge</a> |
+|      33 | 📖 Docker Push Image to Repository               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271487'>Start Lab</a>       |
+|      34 | 🎯 Interstellar Container Deployment             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271486'>Start Challenge</a> |
+|      35 | 📖 Docker Remove Image                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271493'>Start Lab</a>       |
+|      36 | 🎯 Treasure Island Cleanup                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271492'>Start Challenge</a> |
+|      37 | 📖 Docker List Images                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271463'>Start Lab</a>       |
+|      38 | 🎯 Superpower Image Organization in Docker       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271462'>Start Challenge</a> |
+|      39 | 📖 Docker Search Images in Repository            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271497'>Start Lab</a>       |
+|      40 | 🎯 Docker Image Sky Search Adventure             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271496'>Start Challenge</a> |
+|      41 | 📖 Docker Copy Data Between Host and Container   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271457'>Start Lab</a>       |
+|      42 | 🎯 Docker Data Rescue Mission                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271456'>Start Challenge</a> |
+|      43 | 📖 Docker Manage Volumes                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271511'>Start Lab</a>       |
+|      44 | 🎯 Robotic Assembly Line Volume Management       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271510'>Start Challenge</a> |
+|      45 | 📖 Docker Build Image from Dockerfile            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271455'>Start Lab</a>       |
+|      46 | 🎯 Underground Dockerfile Image Quest            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271454'>Start Challenge</a> |
+|      47 | 📖 Docker Manage Networks                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271477'>Start Lab</a>       |
+|      48 | 🎯 Docker Networking Adventure                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271476'>Start Challenge</a> |
+|      49 | 📖 Docker Display System-Wide Information        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271465'>Start Lab</a>       |
+|      50 | 🎯 Dockers Mystical System-Wide Mastery          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271464'>Start Challenge</a> |
+|      51 | 📖 Docker Show Docker Version                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271509'>Start Lab</a>       |
+|      52 | 🎯 Verifying Colony Docker Version               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271508'>Start Challenge</a> |
+|      53 | 📖 Docker Log into Docker Registry               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271469'>Start Lab</a>       |
+|      54 | 🎯 Docker Registry Night Quest                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271468'>Start Challenge</a> |
+|      55 | 📖 Docker Log out from Docker Registry           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271471'>Start Lab</a>       |
+|      56 | 🎯 Secure Logout for Space Travelers             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271470'>Start Challenge</a> |
+|      57 | 📖 Docker Manage Docker                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271503'>Start Lab</a>       |
+|      58 | 🎯 Docker Mastery in Gelasian Grasslands         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271502'>Start Challenge</a> |
+|      59 | 📖 Docker Remove Unused Docker Objects           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271481'>Start Lab</a>       |
+|      60 | 🎯 Docker Jungle Expedition                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271480'>Start Challenge</a> |
 
 ## More
 
