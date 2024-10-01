@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                             | Difficulty   | Practice                                                                                                                         |
-|---------|--------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                            | Difficulty   | Practice                                                                                                                         |
+|---------|-------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Docker Pull Image from Repository             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-docker-pull-image-from-repository-271485'>Start Lab</a>               |
 |      02 | 🎯 Repository Image Quest                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-repository-image-quest-271484'>Start Challenge</a>                    |
 |      03 | 📖 Docker Run a Container                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-docker-run-a-container-271495'>Start Lab</a>                          |
